@@ -83,7 +83,7 @@ params:
 
   socialIcons:
     - name: rss
-      url: https://aprd.ir/index.xml
+      url: https://mohammad-mahdi.pages.dev/index.xml
     # - name: twitter
     #   url: "https://twitter.com/pourmand_amir"
     #- name: github
@@ -91,7 +91,7 @@ params:
     - name: telegram
       url: "https://t.me/khode_mohammadmahdi"
     - name: site
-      url: https://amirpourmand.ir
+      url: https://mohammad-mahdi.pages.dev/
 
   analytics:
     google:
