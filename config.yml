@@ -13,7 +13,7 @@ buildExpired: false
 
 publishDir: "public"
 
-googleAnalytics: UA-123-45
+googleAnalytics: G-KE8GV0HHSB
 minify:
   disableXML: true
   minifyOutput: true
