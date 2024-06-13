@@ -1,9 +1,10 @@
 baseURL: https://papermod-farsi.netlify.app
 languageCode: 'fa'
 defaultContentLanguage: 'fa'
-title: 'یک قالب وبلاگ'
+title: 'وبلاگ آزاد'
 theme: "PaperMod"
 paginate: 5
+copyright: نوشته‌های این وبلاگ با پروانه [کریتیو کامنز اتریبیوشن ۴.۰ اینترنشنال](https://creativecommons.org/licenses/by/4.0/)  منتشر شده‌اند.
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -19,12 +20,12 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  title: وبلاگ آزاد
+  description: "وبلاگ آزاد"
+  keywords: ["blog", "experience", "personal blog", "mohammad mahdi aslani"]
+  author: "محمد مهدی"
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: [""]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -48,15 +49,15 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: ""
+    favicon16x16: ""
+    favicon32x32: ""
+    apple_touch_icon: ""
+    safari_pinned_tab: ""
 
   label:
-    text: "خانه"
-    icon: /apple-touch-icon.png
+    text: "وبلاگ آزاد"
+    icon: #/apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
@@ -76,17 +77,21 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: سلام امیر پورمند هستم
+    Title: سلام محمد مهدی اصلانی هستم
     Content: >
-        سلام اینجا قدری درباره همه چیز می‌نویسم
+        این یک وبلاگ شخصی از منه و من سعی میکنم کارهایی که انجام میدم و چیزایی که بلدم و کاربردی هستن رو در این وبلاگ قرار بدم
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/pourmand_amir"
-    - name: stackoverflow
-      url: "https://stackoverflow.com/"
-    - name: github
-      url: "https://github.com/pourmand1376"
+    - name: rss
+      url: https://aprd.ir/index.xml
+    # - name: twitter
+    #   url: "https://twitter.com/pourmand_amir"
+    #- name: github
+    #  url: "https://github.com/pourmand1376"
+    - name: telegram
+      url: "https://t.me/khode_mohammadmahdi"
+    - name: site
+      url: https://amirpourmand.ir
 
   analytics:
     google:
@@ -102,8 +107,8 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
+    URL: "https://github.com/Mohammad-Mahdi-Aslani/hugo-papermod-farsi-template/tree/master/content"
+    Text: "پیشنهاد برای ویرایش پست" # edit text
     appendFilePath: true # to append file path to Edit link
 
   # for search
@@ -144,6 +149,10 @@ menu:
       name: آرشیو
       url: /archives/
       weight: 30
+    - identifier: search
+      name: جستجو
+      url: /search/
+      weight: 40
 
 languages:
     fa:
