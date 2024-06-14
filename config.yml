@@ -140,6 +140,10 @@ permalinks:
 
 menu:
   main:
+    - identifier: posts
+      name: پست‌ها
+      url: /posts/
+      weight: 10
     - identifier: FATags
       name: تگ‌ها
       url: /fatags/
