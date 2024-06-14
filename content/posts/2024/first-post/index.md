@@ -1,7 +1,7 @@
 ---
 title: اولین پست ، چرا وبلاگ
 date: 2024-6-13
-draft: true
+draft: false
 fatags:
   - وبلاگ
   - اولین
