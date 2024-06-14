@@ -162,3 +162,8 @@ languages:
           category: categories
           tag: fatags
           series: series
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
