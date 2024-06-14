@@ -1,4 +1,6 @@
 [
   "obsidian-git",
-  "obsidian-rtl"
+  "obsidian-rtl",
+  "custom-font-loader",
+  "obsidian-auto-link-title"
 ]
