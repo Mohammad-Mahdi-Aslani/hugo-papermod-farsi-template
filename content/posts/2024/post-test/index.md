@@ -1,9 +1,11 @@
 ---
-title: پست تست
-date: 2024-6-21
-draft: false
+title: یه Data Scientist چیکار می‌کنه؟ - اپیزود پنجم ایستگاه هوش مصنوعی
+date: 2024-04-27 21:00:00 +03:30
 fatags:
-  - تست
+  - پادکست
+  - ایستگاه_هوش_مصنوعی
+cover:
+  image: https://files.virgool.io/upload/users/5179/posts/hn4cbntamacf/ptispulhzpue.png
 ---
 #  ساخت API برای Archillect با استفاده از Cloudflare Workers -  اینترنردز 
 ![](https://files.virgool.io/upload/users/5179/posts/hn4cbntamacf/ptispulhzpue.png)
