@@ -13,7 +13,7 @@ buildExpired: false
 
 publishDir: "public"
 
-googleAnalytics: G-FYL1WVHT60
+googleAnalytics: G-KE8GV0HHSB
 minify:
   disableXML: true
   minifyOutput: true
@@ -94,7 +94,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "G-FYL1WVHT60"
+      SiteVerificationTag: "XYZabc"
     bing:
       SiteVerificationTag: "XYZabc"
     yandex:
