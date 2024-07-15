@@ -1,0 +1,10 @@
+{
+  "fileDirections": {
+    "content/posts/2024/first-post/index.md": "auto"
+  },
+  "defaultDirection": "auto",
+  "rememberPerFile": true,
+  "setNoteTitleDirection": true,
+  "setYamlDirection": false,
+  "statusBar": true
+}
