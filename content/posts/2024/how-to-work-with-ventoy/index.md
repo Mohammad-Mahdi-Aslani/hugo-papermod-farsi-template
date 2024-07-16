@@ -26,7 +26,7 @@ fatags:
 
 فلش‌درایو رو به کامپیوتر وصل کنید و فایل اجرایی Ventoy رو باز کنید. فلش‌درایو رو از لیست دستگاه‌ها انتخاب کنید و روی دکمه "Install" کلیک کنید. این مرحله ممکنه چند دقیقه طول بکشه، اما بعدش فلش شما آماده‌ست.
 
-<img src="content/posts/2024/how-to-work-with-ventoy/Pasted image 20240716041104.png" alt="Description of the image">
+<img src="https://raw.githubusercontent.com/Mohammad-Mahdi-Aslani/hugo-papermod-farsi-template/master/content/posts/2024/how-to-work-with-ventoy/Pasted%20image%2020240716041104.png" alt="Description of the image">
 ## کپی کردن فایل‌های ISO
 
 حالا که Ventoy روی فلش نصب شد، تنها کاری که باید بکنید اینه که فایل‌های ISO مورد نظرتون رو به فلش کپی کنید. مثلاً من فایل‌های ISO ویندوز ۱۱، اوبونتو و یه سری ابزار دیگه رو کپی کردم.
