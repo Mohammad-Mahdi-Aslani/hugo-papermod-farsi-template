@@ -36,7 +36,7 @@ fatags:
 
 وقتی که فایل‌های ISO رو کپی کردید، فلش رو به سیستم مورد نظرتون وصل کنید و سیستم رو ریستارت کنید. وارد منوی بوت بشید و فلش‌درایو رو به عنوان دستگاه بوت انتخاب کنید. حالا Ventoy براتون یه لیست از فایل‌های ISO موجود رو نمایش میده و شما می‌تونید سیستم عامل یا ابزار مورد نظرتون رو انتخاب کنید و بوت کنید.
 
-<img src="content/posts/2024/how-to-work-with-ventoy/Pasted image 20240716041416.png" alt="Description of the image">
+<img src="https://github.com/Mohammad-Mahdi-Aslani/hugo-papermod-farsi-template/blob/master/content/posts/2024/how-to-work-with-ventoy/Pasted%20image%2020240716041416.png" alt="Description of the image">
 ## در آخر
 
 Ventoy واقعاً کار من رو راحت کرد و دیگه نیازی ندارم چندتا فلش یا سی‌دی با خودم داشته باشم. اگر شما هم مثل من از بوت کردن سیستم‌های مختلف خسته شدید، پیشنهاد می‌کنم حتماً Ventoy رو امتحان کنید.
