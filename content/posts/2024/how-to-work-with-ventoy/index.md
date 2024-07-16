@@ -26,7 +26,7 @@ fatags:
 
 فلش‌درایو رو به کامپیوتر وصل کنید و فایل اجرایی Ventoy رو باز کنید. فلش‌درایو رو از لیست دستگاه‌ها انتخاب کنید و روی دکمه "Install" کلیک کنید. این مرحله ممکنه چند دقیقه طول بکشه، اما بعدش فلش شما آماده‌ست.
 
-[![App Platorm](https://linuxmint-user-guide.readthedocs.io/en/latest/_images/ventoy_boot.jpg)](https://www.digitalocean.com/products/app-platform)
+[![ventoy](https://linuxmint-user-guide.readthedocs.io/en/latest/_images/ventoy.png)]
 ## کپی کردن فایل‌های ISO
 
 حالا که Ventoy روی فلش نصب شد، تنها کاری که باید بکنید اینه که فایل‌های ISO مورد نظرتون رو به فلش کپی کنید. مثلاً من فایل‌های ISO ویندوز ۱۱، اوبونتو و یه سری ابزار دیگه رو کپی کردم.
@@ -36,7 +36,7 @@ fatags:
 
 وقتی که فایل‌های ISO رو کپی کردید، فلش رو به سیستم مورد نظرتون وصل کنید و سیستم رو ریستارت کنید. وارد منوی بوت بشید و فلش‌درایو رو به عنوان دستگاه بوت انتخاب کنید. حالا Ventoy براتون یه لیست از فایل‌های ISO موجود رو نمایش میده و شما می‌تونید سیستم عامل یا ابزار مورد نظرتون رو انتخاب کنید و بوت کنید.
 
-![title]([Images/example.png](https://linuxmint-user-guide.readthedocs.io/en/latest/_images/ventoy_boot.jpg))
+[![ventoy](https://linuxmint-user-guide.readthedocs.io/en/latest/_images/ventoy_boot.jpg)]
 ## در آخر
 
 Ventoy واقعاً کار من رو راحت کرد و دیگه نیازی ندارم چندتا فلش یا سی‌دی با خودم داشته باشم. اگر شما هم مثل من از بوت کردن سیستم‌های مختلف خسته شدید، پیشنهاد می‌کنم حتماً Ventoy رو امتحان کنید.
