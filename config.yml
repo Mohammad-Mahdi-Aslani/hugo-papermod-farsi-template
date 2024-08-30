@@ -2,7 +2,7 @@ baseURL: https://imbo.ir
 languageCode: 'fa'
 defaultContentLanguage: 'fa'
 title: 'وبلاگ آزاد'
-theme: "PaperMod"
+theme: "paper-rtl"
 paginate: 5
 copyright: نوشته‌های این وبلاگ با پروانه [کریتیو کامنز اتریبیوشن ۴.۰ اینترنشنال](https://creativecommons.org/licenses/by/4.0/)  منتشر شده‌اند.
 
