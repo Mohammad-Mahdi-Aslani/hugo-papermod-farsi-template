@@ -1,10 +1,10 @@
-baseURL: https://imbo.ir
+baseURL: https://imbo.ir/
 languageCode: 'fa'
 defaultContentLanguage: 'fa'
-title: 'وبلاگ آزاد'
+title: 'وبلاگ قلمرو ادبی'
 theme: "PaperMod"
 paginate: 5
-copyright: نوشته‌های این وبلاگ با پروانه [کریتیو کامنز اتریبیوشن ۴.۰ اینترنشنال](https://creativecommons.org/licenses/by/4.0/)  منتشر شده‌اند.
+copyright: نوشته‌های این وبلاگ با پروانه [کریتیو کامنز اتریبیوشن ۴.۰ بین‌المللی](https://creativecommons.org/licenses/by/4.0/)  منتشر شده‌اند.
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -13,14 +13,14 @@ buildExpired: false
 
 publishDir: "public"
 
-googleAnalytics: G-KE8GV0HHSB
+googleAnalytics: 
 minify:
   disableXML: true
   minifyOutput: true
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: وبلاگ آزاد
-  description: "وبلاگ آزاد"
+  title: وبلاگ قلمرو ادبی
+  description: "وبلاگ قلمرو ادبی"
   keywords: ["blog", "experience", "personal blog", "mohammad mahdi aslani"]
   author: "محمد مهدی"
   # author: ["Me", "You"] # multiple authors
@@ -55,7 +55,7 @@ params:
     safari_pinned_tab: ""
 
   label:
-    text: "وبلاگ آزاد"
+    text: "وبلاگ قلمرو ادبی"
     icon: #/apple-touch-icon.png
     iconHeight: 35
 
@@ -78,20 +78,18 @@ params:
   homeInfoParams:
     Title: سلام محمد مهدی اصلانی هستم
     Content: >
-        این یک وبلاگ شخصی از منه و من سعی میکنم کارهایی که انجام میدم و چیزایی که بلدم و کاربردی هستن رو در این وبلاگ قرار بدم
-
+       در وبلاگ قلمرو ادبی به برسی شاعران و ادبیات پارسی میپردازیم
   socialIcons:
     - name: rss
-      url: https://mohammad-mahdi.pages.dev/index.xml
+      url: https://imbo.ir/index.xml
     # - name: twitter
-    #   url: "https://twitter.com/pourmand_amir"
+    #   url: "https://twitter.com/"
     #- name: github
-    #  url: "https://github.com/pourmand1376"
-    - name: telegram
-      url: "https://t.me/khode_mohammadmahdi"
+    #  url: "https://github.com/"
+    #- name: telegram
+    #  url: "https://t.me/"
     - name: site
-      url: https://mohammad-mahdi.pages.dev/
-
+      url: https://imbo.ir
   analytics:
     google:
       SiteVerificationTag: "XYZabc"
@@ -106,7 +104,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/Mohammad-Mahdi-Aslani/hugo-papermod-farsi-template/tree/master/content"
+    URL: "https://github.com/"
     Text: "پیشنهاد برای ویرایش پست" # edit text
     appendFilePath: true # to append file path to Edit link
 
